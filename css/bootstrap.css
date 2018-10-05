@@ -1311,6 +1311,11 @@ mark,
 .text-justify {
   text-align: justify;
 }
+.text-justify-height {
+  text-align: justify;
+  height: 30px;
+  padding: 5px 10px;
+}
 .text-nowrap {
   white-space: nowrap;
 }
