@@ -1313,8 +1313,7 @@ mark,
 }
 .text-justify-height {
   text-align: justify;
-  height: 30px;
-  padding: 5px 10px;
+  height: 150px;
 }
 .text-nowrap {
   white-space: nowrap;
