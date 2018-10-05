@@ -1,11 +1,11 @@
 # Site settings
 title: Machine Learning in Drug Discovery & Development at Connecticut
-email: 
+email: mlddd.ct@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username: 
+twitter_username: mldddct
 github_username: mlddd-ct
 
 # Build settings
